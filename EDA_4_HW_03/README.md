@@ -8,7 +8,7 @@
 [5. Выводы](https://github.com/meliashchenia/Skillfactory_DS_3.0/blob/main/EDA_4_HW_03/README.md#Выводы) 
 
 ### Описание проекта    
-Применение на практике популярных тестов для провперки статистических гипоз.
+Применение на практике популярных тестов для проверки статистических гипоз.
 :arrow_up:[к оглавлению](https://github.com/meliashchenia/Skillfactory_DS_3.0/blob/main/EDA_4_HW_03/README.md#Оглавление)
 
 
