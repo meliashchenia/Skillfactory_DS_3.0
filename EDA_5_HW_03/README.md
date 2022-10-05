@@ -3,7 +3,7 @@
 [1. Описание проекта](https://github.com/meliashchenia/Skillfactory_DS_3.0/blob/main/EDA_5_HW_03/README.md#Описание-проекта)  
 [2. Какой кейс решаем?](https://github.com/meliashchenia/Skillfactory_DS_3.0/blob/main/EDA_5_HW_03/README.md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](https://github.com/meliashchenia/Skillfactory_DS_3.0/blob/main/EDA_5_HW_03/README.md#Краткая-информация-о-данных)  
-[4. Результаты](https://github.com/meliashchenia/Skillfactory_DS_3.0/blob/main/EDA_4_HW_05/README.md#Результаты)    
+[4. Результаты](https://github.com/meliashchenia/Skillfactory_DS_3.0/blob/main/EDA_5_HW_03/README.md#Результаты)    
 [5. Выводы](https://github.com/meliashchenia/Skillfactory_DS_3.0/blob/main/EDA_5_HW_03/README.md#Выводы) 
 
 ### Описание проекта    
