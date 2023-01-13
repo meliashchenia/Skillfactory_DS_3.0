@@ -1,5 +1,7 @@
 # Проект 3. EDA + Feature Engineering. Соревнование на Kaggle
 
+**User Name on Kaggle**: volhameliashchenia 
+
 ## Оглавление  
 [1. Описание проекта](https://github.com/meliashchenia/Skillfactory_DS_3.0/blob/main/project_3/README.md#Описание-проекта)  
 [2. Какой кейс решаем?](https://github.com/meliashchenia/Skillfactory_DS_3.0/blob/main/project_3/README.md#Какой-кейс-решаем)  
