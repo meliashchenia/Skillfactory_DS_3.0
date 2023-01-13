@@ -5,6 +5,8 @@ From the [Skillfactory Data Science course](https://skillfactorv.ru/data-scienti
 
 * [Project 0. Game: Guess the number](https://github.com/meliashchenia/Skillfactory_DS_3.0/tree/main/project_0)
 * [Project 1. Job analysis from HeadHunter](https://github.com/meliashchenia/Skillfactory_DS_3.0/tree/main/project_1)
+* [Project 2. SQL Job analysis from HeadHunter](https://github.com/meliashchenia/Skillfactory_DS_3.0/tree/main/project_2)
+* [Project 3. EDA Kaggle competition](https://github.com/meliashchenia/Skillfactory_DS_3.0/tree/main/project_3)
 
 ## Homeworks
 
