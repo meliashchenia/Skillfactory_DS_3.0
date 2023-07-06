@@ -15,3 +15,4 @@ From the [Skillfactory Data Science course](https://skillfactorv.ru/data-scienti
 * [module_3, EDA_5, HW_03](https://github.com/meliashchenia/Skillfactory_DS_3.0/tree/main/EDA_5_HW_03)
 * [module_4, ML_6, HW_03](https://github.com/meliashchenia/Skillfactory_DS_3.0/tree/main/ML_6_HW_03)
 * [module_4, ML_7, HW_03](https://github.com/meliashchenia/Skillfactory_DS_3.0/tree/main/ML_7_HW_03)
+* [module_5, MATH_2, HW_03](https://github.com/meliashchenia/Skillfactory_DS_3.0/tree/main/MATH_2_HW_03)
